@@ -1,0 +1,4 @@
+hor rana
+:wq!
+hello
+
